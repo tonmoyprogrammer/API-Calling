@@ -32,11 +32,20 @@
     animation: logo-spin infinite 20s linear;
   }
 }
-
+body{
+  background-color: black;
+}
 .card {
   padding: 2em;
 }
 
 .read-the-docs {
   color: #888;
+}
+.post{
+  padding:15px 7px;
+  border:2px solid sienna;
+  background-color: burlywood;
+  color: black;
+  border-radius: 25px;
 }
